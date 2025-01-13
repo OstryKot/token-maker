@@ -68,7 +68,7 @@ const CreateToken: React.FC = () => {
 
   return (
     <div className="create-token-container">
-      <h1>Stwórz własny token ERC20</h1>
+      <h1>Stwórz własny token ERC-20</h1>
       
       {!walletAddress ? (
         <button onClick={connectMetaMask} className="connect-button">
