@@ -15,7 +15,8 @@ Kompilujemy smartkontrakt za pomoca kompilatora solidity. Pobieramy plik `Simple
 
 W ramach testu możemy uruchomić na lokalnej maszynie narzędzie `anvil` z pakietu `Foundry`. Dodajemy do MetaMaska kilka kluczy prywatnych wygenerowanych przez `anvil`. Uruchamiamy projekt za pomocą `npm run dev` wchodzimy na aplikację webową, podłączamy portfel, wpisujemy dane tokena który chcemy wdrożyć. Następnie możemy za pomocą portfela przesyłać nasze tokeny z jednego konta na drugie po wcześniejszej inicjalizacji na portfelu odpowiedniego tokena za pomocą adresu smartkotaktu, który wdrożyliśmy.
 
-
+## interface użytkownika
+![interface](./screenshot/screen-shot-00.png)
 
 
 
